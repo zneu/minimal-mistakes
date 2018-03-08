@@ -1,7 +1,7 @@
 ---
 excerpt: Working abroad unlocks so many possibilities for saving money and experiencing things that are out of reach when sitting in an office close to "home".
 header:
-  overlay_image: /assets/img/unsplash-img-1.
+  overlay_image: /assets/img/unsplash-img-1.jfif
   overlay_filter: 0.5
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
