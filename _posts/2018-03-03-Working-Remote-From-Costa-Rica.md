@@ -1,6 +1,4 @@
 ---
-img : https://images.unsplash.com/photo-1454906264332-6d1fa4e44239?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=cc4debb29e0902aa88398c498d8b9676&auto=format&fit=crop&w=1047&q=80
-
 header: 
   teaser: https://images.unsplash.com/photo-1454906264332-6d1fa4e44239?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=cc4debb29e0902aa88398c498d8b9676&auto=format&fit=crop&w=1047&q=80
 ---
@@ -11,4 +9,4 @@ Currently writing this from Casa Solar in the Fuente Verde Ecovillage in Tinamas
 
 On this trip I've learned what I am capable of doing, I've crossed a boundary I can never come back from. Working abroad unlocks so many possibilities for saving money and experiencing things that are out of reach when sitting in an office close to "home". My current "office" overlooks the rainforest, the sound of bugs are audible all day and can be so loud that I can barely talk to the person next to me. This space has a large movement studio that allows me to stretch and be active at any point of the day. I am fed a vegetarian meal by the hosts once or twice a day and can walk a few meters down the road to a water hole complete with its own waterfall which is perfect for cooling off during the day.
 
-Up in the mountains life is simple. The chaos and negative energy of the city are nonexistent, overindulging is next to nearly impossible, and the way these mountain valleys heal your soul is palpable. 
+Up in the mountains life is simple. The chaos and negative energy of the city are nonexistent, overindulging is next to nearly impossible, and the way these mountain valleys heal your soul is palpable.
