@@ -1,6 +1,7 @@
 ---
 excerpt: Currently writing this from Casa Solar in the Fuente Verde Ecovillage in Tinamaste, Costa Rica. I am here until the 8th of March, my journey began on the 4th of February. So much gratitude for this trip.
 header:
+  teaser: /assets/img/unsplash-img-1.jfif
   overlay_image: /assets/img/unsplash-img-1.jfif
   overlay_filter: 0.5
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
