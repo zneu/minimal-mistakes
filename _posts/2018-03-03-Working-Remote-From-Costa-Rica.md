@@ -1,5 +1,5 @@
 ---
-exceprt: Working abroad unlocks so many possibilities for saving money and experiencing things that are out of reach when sitting in an office close to "home".
+excerpt: Working abroad unlocks so many possibilities for saving money and experiencing things that are out of reach when sitting in an office close to "home".
 header:
   teaser: /assets/img/unsplash-img-1.jfif
   og_image: /assets/img/unsplash-img-1.jfif
