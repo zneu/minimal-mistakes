@@ -91,7 +91,7 @@ analytics:
 # Site Author
 author:
   name             : "Zachary Neumann"
-  avatar           : "http://longwallpapers.com/Desktop-Wallpaper/space-cat-wallpapers-free-For-Desktop-Wallpaper.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://ih0.redbubble.net/image.40752633.6260/raf,360x360,075,t,fafafa:ca443f4786.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "The more you know!"
   location         : "Portland, Oregon"
   email            : "zneu.dev@gmail.com"
