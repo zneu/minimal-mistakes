@@ -7,7 +7,6 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
-### Welcome to
-## The Wild
-# KINGDOM
----------------
+# Welcome to
+# The Wild
+## KINGDOM
