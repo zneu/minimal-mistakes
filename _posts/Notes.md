@@ -9,7 +9,6 @@ https://www.facebook.com/BradRhadwood/?hc_location=ufi
 # Books/PDFS
 - Valve: Handbook for New Employees
 
-
 # Build a Quotes pages
 - Array, JS pulls up one quote,
 
@@ -37,3 +36,9 @@ Keep going until you do find the people that love your idea.
 # Daily Routines
 - Pu-herr
 - Foursigmatic
+
+# Meals and meal prep
+- Black Bean Burgers
+- Salads
+- Eggs
+- Turmeric and Ginger
