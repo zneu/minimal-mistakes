@@ -42,3 +42,10 @@ Keep going until you do find the people that love your idea.
 - Salads
 - Eggs
 - Turmeric and Ginger
+
+# 03-03-2018
+- Add dinner song from Casa Solar
+- Snorkeling
+- Pictures
+- Videos
+- Soundbytes of Jungles and Birds
