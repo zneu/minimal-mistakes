@@ -11,7 +11,7 @@ This is a horrendous data visualization project. It is pretty difficult to read,
 JavaScript Object Notation is the format we’ll use when interacting with data. It represents data as a JavaScript-style object, which makes it very easy to import, manipulate, and use. JSON differs from normal JavaScript objects in that both the keys and values have double quote marks around them.
 GeoJSON is a specific syntax of JSON used for storing geospatial data.
 
-```JavaScript
+```javascript
 {
   "type": "Feature",
   "geometry": {
@@ -27,7 +27,7 @@ GeoJSON is a specific syntax of JSON used for storing geospatial data.
 For loops run code multiple times. (You should already know this). Remember, with a for loop the first expression is the starting condition, the second is the testing condition, and the last is the update to run afterwards.
 We will spend a lot of time in this class looping through arrays of data. Remember that array.length is your friend here.
 
-```JavaScript
+```javascript
 for (var i = 1; i <= 10; i++) {
   console.log(i);
 }
