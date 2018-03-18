@@ -1,5 +1,5 @@
 ---
-excerpt:
+excerpt: Tufte’s principles of graphic excellence
 ---
 
 ### Tufte’s principles of graphic excellence
