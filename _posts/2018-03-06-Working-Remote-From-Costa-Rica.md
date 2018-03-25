@@ -61,15 +61,17 @@ When traveling across Costa Rica you can use thebusschedule.com to find reliable
 
 {% include figure image_path="/assets/img/MonteverdeHills.JPG" alt="A view of the Ocean from on top of Monteverde." caption="A view of the Ocean from on top of Monteverde." %}
 
-Monteverde is a unique mountain village surrounded by rainforest with delicious coffee (grown locally) and food, souvenir shops, and its own unique natural attractions. Monteverde was much cooler in temperature than the beach, being that it was up in the mountains, which was a nice change. I stayed at Hostel la Suerta B&B for about $10 a night and would highly recommend it to a friend. From the hostel it's easy to book different tours of the area, which will pick you up and drop you off right outside the hostel. A few of the us at the hostel booked a tour of the Monteverde cloudforest which was a really great experience.
+Monteverde is a unique mountain village surrounded by rainforest with delicious coffee (grown locally) and food, souvenir shops, and its own unique natural attractions. Monteverde was much cooler in temperature than the beach, being that it was up in the mountains, which was a nice change. I stayed at Hostel la Suerta B&B for about $10 a night and would highly recommend it to a friend.
+
+{% include figure image_path="/assets/img/HostelSuertaSunset.JPG" alt="A view of the ocean and sunset from the balcony of Hostel La Suerta" caption="A view of the ocean and sunset from the balcony of Hostel La Suerta." %}
+
+From the hostel it's easy to book different tours of the area, which will pick you up and drop you off right outside the hostel. A few of the us at the hostel booked a tour of the Monteverde cloudforest which was a really great experience.
 
 ![Montezuma Waterfall]({{ site.url }}{{ site.baseurl }}/assets/img/Monteverde12.JPG)
 
 {% include gallery id="monteverde" caption="Pictures from the Monteverde Cloudforest" %}
 
 After our tour of the Cloudforest one of the friends, who had been staying at the hostel, took us up the road to a local spot where you can climb up the inside of a hollowed out tree about 10 stories to the top. Sitting at the top I realized that traveling is like being high up in a tree. When you're on it, cradled within it's arms, it's exhilarating. You could easily fall at any moment to the depths of the jungle floor below. But then you realize that you're in a tree, it has strength and so do you. I wrote this poem after realizing what the tree was teaching me.
-
-![Montezuma Waterfall]({{ site.url }}{{ site.baseurl }}/assets/img/MonteverdeTree.JPG)
 
 "I am a strong tree, be calm and still with me,
 I will keep you safe from your enemies.
@@ -78,41 +80,36 @@ then you can glisten like the sunset on the clouds.
 Your love will bring much warmth to those who see your everlasting beauty.
 So ground with me for an eternity."
 
+![Monteverde Tree]({{ site.url }}{{ site.baseurl }}/assets/img/MonteverdeTree.JPG)
+
 During my stay in Coco I met a Tica who knew Costa Rica very well and had a vehicle. We ended up traveling together to Montezuma, Santa Teresa, and Malpaís for some camping and adventuring. Each place having it's own drastically unique village, beaches, people, and natural attractions. In Montezuma we met a couple from Argentina who ended up traveling with us. The first night in Montezuma was the day of the new moon, laying on the beach under the stars that night was a major highlight of my trip. Cancer, Gemini, Orion, Canis Major, Ursa Major, Ursa Minor, Pleiades, the Milky Way (Vía Láctea en Español), and other constellations lit up the night sky. While looking at the sky and the ocean Ivan and I sang "We all live in the milky, milky, way" to the tune of Yellow Submarine. The following day we hiked from our hostel to the Montezuma Waterfall. The hike leads right up the Montezuma river to a waterfall close to 10 stories high. We jumped off cliffs into the waters below and swam around the waterfall for the greater part of the day. When we were finished we hiked back, got in the car, and drove to Santa Teresa.
 
 ![Montezuma Waterfall]({{ site.url }}{{ site.baseurl }}/assets/img/MontezumaWaterfallPost.JPG)
 
 Santa Teresa can be described as a hippie, yogi, surfer's paradise. In Santa Teresa the beach is long, surf's always up, and the sunsets are brilliant. The town has vegan restaurants, coffee shops, yoga, and spa services. Most of the people I talked with said they showed up and had been there for months since. We camped at a spot on the beach and cooked our meals in an outdoor kitchen, with running water, where the stove was a raised fire pit. The only caveat was that the restrooms didn't have toilet paper, nor did we. I went to a vegan breakfast restaurant to eat (and to do my daily duty), but I returned to find out we had been kicked out of the camping spot because my Argentinian friend's accent came off as aggressive when he asked the camp host for some teepee. One of my biggest regrets on this trip was not having the time to surf while in Santa Teresa, but I know that the next time I am in Costa Rica I will be making a plan to spend at least a week there.
 
-![Montezuma Waterfall]({{ site.url }}{{ site.baseurl }}/assets/img/SantaTeresaSunset.JPG)
+![Santa Teresa Sunset]({{ site.url }}{{ site.baseurl }}/assets/img/SantaTeresaSunset.JPG)
 
 Our next stop was Malpaís where we found another camping spot on the coast. The beach here had lots of shells, there were rocky tide pool sections, and the ocean was a bit more salty and the tides were a little bit calmer than Santa Teresa. The camping spot we stayed at had an open kitchen, complete with a blender, where we made Piña Colodas with fresh pineapple and rum. Our stop here was very relaxing. The camp host was very nice, he had a hobby of collecting and polishing rocks. He gave the each of us a piece of black tourmaline that he had collected and polished. We sat around playing steel drums and hand pans before we left to go back up towards Playa del Coco.
 
-![Montezuma Waterfall]({{ site.url }}{{ site.baseurl }}/assets/img/Malpais3.JPG)
+![Malpais Sunset]({{ site.url }}{{ site.baseurl }}/assets/img/Malpais3.JPG)
 
 On our way up we stoped at Playa Negra and Tamarindo to catch an amazing sunset. Tamarindo is a bit more of a touristy spot. There is a downtown with some really nice shopping and restaurants, the store at the beginning of town reminds me of a health food store in the US. The sunsets are incredible, the beach is full of lively people, and at night there's always something to do. There is live music everywhere and on the beach you can catch some amazing fire spinners.
 
-![Montezuma Waterfall]({{ site.url }}{{ site.baseurl }}/assets/img/Tamarindo.JPG)
+![Tamarindo Sunset]({{ site.url }}{{ site.baseurl }}/assets/img/Tamarindo.JPG)
 
 After my journey with my traveling partners I met up with a friend from the US who flew into Liberia. Her and I traveled together for two days to get down to Manuel Antonio, where we stayed one night, and eventually to Uvita for Envision. While in Manuel Antonio we stopped at BCR so she could pull out cash. We waited in line, got to the banker, and there ended up being an issue where there "systems were down". They ended up taking $800 dollars out of her account, didn't provide us with any Colones, and couldn't reverse the transaction. They told us that her bank had to reverse the transaction. Long story short.. if you need cash just pull it out of an ATM--they have a 250,000₡ limit so don't try to go over or it might take your card which is another hassle. Fortunately the charges dropped after a week and my friend was able to get her bank to give her a temporary credit for one of the charges. Manuel Antonio is another fairly touristy location, but it has a decent beach, and a National Park which we didn't visit. We did find a remote beach, Playa Biesanz, where there is a guy who rents out snorkeling gear to the people on the beach. My friend and I had a blast swimming around looking at fish and watching the sun's light bounce around on the ocean floor.
 
 Fortunately we were able to contact someone on Facebook that was going to Envision. They picked us up in Manuel Antonio with their rental car after we finished snorkeling. That was a huge blessing while traveling to Envision, otherwise we may have had to hike quite a ways down the highway to get to the festival and would've had to pay to get a taxi to take us to town for groceries. If I go to Envision another year I will definitely plan a few months ahead to find a place to stay in Uvita before and after the festival, and an easy way to the entrance. I may even plan with some other people going to rent a house and a car for the weekend.
 
+![Tamarindo Sunset]({{ site.url }}{{ site.baseurl }}/assets/img/EnvisionMagic.JPG)
+
 Once we got to Envision the orchestrated, beautiful, chaos began. I can't put everything that happened at Envision into perspective. You'll have to go and experience Envision for yourself if you're called, and I would highly recommend it. The music, workshops, and people are all very inspiring and there are so many great opportunities to network and to learn. So many highlights and so many big life lessons. Seeing Xavier Rudd on the main stage with quite a few good friends from the US was a huge highlight of my experience. Singing medicine songs in the Red Tent, the Tea Lounge, on the beach, and experiencing my first sound healing changed my perspective on music. Music is so healing, it can be a very strong medicine. I learned a medicine song that empowers the divine feminine and divine masculine while at The Unity Temple during a Caco Ceremony lead by Aloka (www.alokaheart.com). I will never forget the lyrics.
 
-"I am a strong woman,
-I am a wise woman,
-I am a healer and my soul will never die.
-
-I honor you I empower you to be who you are,
-I honor you I empower you to be who you are.
-
-I am a strong man,
-I am a loving man,
-I am a peacemaker my soul will never die.
-
-I honor you I empower you to be who you are,
-I honor you I empower you to be who you are."
+"I am a strong woman, I am a wise woman, I am a healer and my soul will never die.
+I honor you I empower you to be who you are, I honor you I empower you to be who you are.
+I am a strong man, I am a loving man, I am a peacemaker my soul will never die.
+I honor you I empower you to be who you are, I honor you I empower you to be who you are."
 
 The women sing, the men echo, and vice versa. What a powerful song to unite the divine feminine and masculine.
 
