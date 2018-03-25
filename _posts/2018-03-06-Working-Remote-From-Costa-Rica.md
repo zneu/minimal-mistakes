@@ -37,6 +37,8 @@ monteverde:
     alt: "Native centipede"
 ---
 
+<iframe src="https://open.spotify.com/embed/user/akrizae/playlist/2Z8Ycup7lFTk33QRmTyWgv" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 Currently writing this from Casa Solar in the Fuente Verde Ecovillage in Tinamaste, Costa Rica. I am here until the 8th of March, my journey began on the 4th of February. So much gratitude for this trip. I am a digital nomad from Portland, Oregon, and my life's greatest journey begins here. In this blog post you will read how I was able to spend 5 weeks in Costa Rica and still work, you will find some tricks for working and/or traveling in Costa Rica, and read about the life changing experiences I had in Costa Rica and at Envision 2018. I hope this post inspires you and gives you some great ideas for getting out of your comfort zone and traveling to another country.
 
 {% include figure image_path="/assets/img/CasaSolar1.jpg" alt="A picture of the movement space at Casa Solar." caption="A picture of the movement space at Casa Solar." %}
