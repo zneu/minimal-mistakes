@@ -67,7 +67,7 @@ Monteverde is a unique mountain village surrounded by rainforest with delicious 
 
 From the hostel it's easy to book different tours of the area, which will pick you up and drop you off right outside the hostel. A few of the us at the hostel booked a tour of the Monteverde cloudforest which was a really great experience.
 
-![Montezuma Waterfall]({{ site.url }}{{ site.baseurl }}/assets/img/Monteverde12.JPG)
+![Monteverede]({{ site.url }}{{ site.baseurl }}/assets/img/Monteverde12.JPG)
 
 {% include gallery id="monteverde" caption="Pictures from the Monteverde Cloudforest" %}
 
