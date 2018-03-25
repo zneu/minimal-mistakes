@@ -1,9 +1,11 @@
 ---
 excerpt: Currently writing this from Casa Solar in the Fuente Verde Ecovillage in Tinamaste, Costa Rica. I am here until the 8th of March, my journey began on the 4th of February. So much gratitude for this trip.
 header:
+  image: /assets/img/Malpais1.JPG
   teaser: /assets/img/Malpais1.JPG
   overlay_image: /assets/img/Malpais1.JPG
   overlay_filter: 0.3
+
 
 monteverde:
   - url: /assets/img/Monteverde4.JPG
@@ -106,7 +108,7 @@ Fortunately we were able to contact someone on Facebook that was going to Envisi
 
 ![Envision Magic]({{ site.url }}{{ site.baseurl }}/assets/img/EnvisionMagic.JPG)
 
-{% include video id="J4RDbNGWbXs" provider="youtube" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RgvaeOMBBdE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Once we got to Envision the orchestrated, beautiful, chaos began. I can't put everything that happened at Envision into perspective. You'll have to go and experience Envision for yourself if you're called, and I would highly recommend it. The music, workshops, and people are all very inspiring and there are so many great opportunities to network and to learn. So many highlights and so many big life lessons. Seeing Xavier Rudd on the main stage with quite a few good friends from the US was a huge highlight of my experience. Singing medicine songs in the Red Tent, the Tea Lounge, on the beach, and experiencing my first sound healing changed my perspective on music. Music is so healing, it can be a very strong medicine. I learned a medicine song that empowers the divine feminine and divine masculine while at The Unity Temple during a Caco Ceremony lead by Aloka (www.alokaheart.com). I will never forget the lyrics.
 
@@ -135,9 +137,9 @@ Big shout out to the medics/village witches, sacred fire tenders, and the Red Te
 
 After Envision we were invited up to Casa Solar where I started writing this post. At Casa Solar I was able to decompress and unpack everything I learned while on this trip. Even in this post I can't capture every moment and every experience, but I do my best to relate some of the lessons and part of the journey. Casa Solar, in Fuente Verde, was such a beautiful experience. So much gratitude. I stayed here for a solid week, it was that amazing. I had mentioned before that we sang before our meals. The song we sang was in Spanish and is a song of gratitude for food, for family, and for the health that food brings. "Gracias por la comida! Nos gusta, nos sana, nos da felicidad!"
 
-![Envision Magic]({{ site.url }}{{ site.baseurl }}/assets/img/CasaSolarYoga.JPG)
+![Casa Solar]({{ site.url }}{{ site.baseurl }}/assets/img/CasaSolarYoga.JPG)
 
-![Envision Magic]({{ site.url }}{{ site.baseurl }}/assets/img/CasaSolar2.JPG)
+![Casa Solar]({{ site.url }}{{ site.baseurl }}/assets/img/CasaSolar2.JPG)
 
 The most remarkable part of my stay at Casa Solar, and maybe my entire stay in Costa Rica, happened on my last night in Fuente Verde. Temazcal is a type of sweat lodge which originated with pre-Hispanic Indigenous peoples in Mesoamerica. In ancient Mesoamerica it was part of a curative ceremony thought to purify the body after exertion such as battle. It was also used for healing the sick, improving health, and for women to give birth. The Temazcal at Casa Solar is a permanent dome shaped lodge that you cannot stand up in and therefore have to crawl into. The ceremony began by lighting a big fire with big boulders that are placed in the center. 40 or more people gathered around this fire to participate in some way. At the beginning of the ceremony everyone was thoroughly smudged, and we all threw a piece of tobacco into the fire to open the ceremony. We were told to say Ōmeteōtl when speaking/asking a question to the guide of our ceremony. Ōmeteōtl is a name used to refer to the pair of Aztec deities Ometecuhtli and Omecihuatl. "Ōme" translates as "two" or "dual" in Nahuatl and teōtl translates as "god". The tobacco represented our intention and our goal going into the Temazcal, this intention was something to keep us strong while inside. We also set a group intention of community love.
 
