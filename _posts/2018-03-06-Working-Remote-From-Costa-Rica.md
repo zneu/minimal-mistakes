@@ -61,6 +61,8 @@ When the day came I packed as light as possible and left for LIR. Upon arrival I
 
 The first week I was in Coco I spent my time getting acquainted with the country's culture, monetary system, and the layout of the town. I got my sim card, pulled out cash from Banco de Costa Rica (BCR), and found my favorite places to work during the day. I saw my first howler monkey, my first iguana, and quite a few tropical birds. At the end of my first week I delivered my first serious products to my client and I decided to hop on a bus and take a weekend up in the mountains in Monteverde.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/419724816&color=%23747c84&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
 When traveling across Costa Rica you can use thebusschedule.com to find reliable bus times and maps.me--an application that downloads a lightweight local map to your phone--to find important bus stops, hostels, places to eat, trails, and attractions. When taking the bus it's important to catch one that leaves early enough to make the transfers to your location. For instance, there are only two buses up the mountain to Monteverde and they both leave from La Irma, one at 10 am and the other at 3 pm. The bus from Coco took me to Pulmatin de Liberia where I caught a connecting bus to San Jose and got off at La Irma to go up to Monteverde.
 
 {% include figure image_path="/assets/img/MonteverdeHills.JPG" alt="A view of the Ocean from on top of Monteverde." caption="A view of the Ocean from on top of Monteverde." %}
