@@ -1,29 +1,76 @@
 ---
 excerpt: Currently writing this from Casa Solar in the Fuente Verde Ecovillage in Tinamaste, Costa Rica. I am here until the 8th of March, my journey began on the 4th of February. So much gratitude for this trip.
 header:
-  teaser: /assets/img/unsplash-img-1.jfif
-  overlay_image: /assets/img/unsplash-img-1.jfif
-  overlay_filter: 0.5
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  teaser: /assets/img/Malpais1.JPG
+  overlay_image: /assets/img/Malpais1.JPG
+  overlay_filter: 0.3
+
+monteverde:
+  - url: /assets/img/Monteverde4.jpg
+    image_path: /assets/img/Monteverde4.jpg
+    alt: "Walking through the Monteverde Cloudforest."
+  - url: /assets/img/Monteverde13.jpg
+    image_path: /assets/img/Monteverde13.jpg
+    alt: "View of the Monteverde Cloudforest."
+  - url: /assets/img/Monteverde5.jpg
+    image_path: /assets/img/Monteverde5.jpg
+    alt: "View of the Monteverde Cloudflorest."
+  - url: /assets/img/Monteverde1.jpg
+    image_path: /assets/img/Monteverde1.jpg
+    alt: "Native flowers"
+  - url: /assets/img/Monteverde2.jpg
+    image_path: /assets/img/Monteverde2.jpg
+    alt: "Native trees"
+    title: ""
+  - url: /assets/img/Monteverde8.jpg
+    image_path: /assets/img/Monteverde8.jpg
+    alt: "Native trees"
+    title: ""
+  - url: /assets/img/Monteverde6.jpg
+    image_path: /assets/img/Monteverde6.jpg
+    alt: "Native flowers"
+  - url: /assets/img/Monteverde3.jpg
+    image_path: /assets/img/Monteverde3.jpg
+    alt: "Native bird"
+  - url: /assets/img/Monteverde7.jpg
+    image_path: /assets/img/Monteverde7.jpg
+    alt: "Native centipede"
+
 ---
 
 Currently writing this from Casa Solar in the Fuente Verde Ecovillage in Tinamaste, Costa Rica. I am here until the 8th of March, my journey began on the 4th of February. So much gratitude for this trip. I am a digital nomad from Portland, Oregon, and my life's greatest journey begins here. In this blog post you will read how I was able to spend 5 weeks in Costa Rica and still work, you will find some tricks for working and/or traveling in Costa Rica, and read about the life changing experiences I had in Costa Rica and at Envision 2018. I hope this post inspires you and gives you some great ideas for getting out of your comfort zone and traveling to another country.
 
+{% include figure image_path="/assets/img/CasaSolar1.JPG" alt="A picture of the movement space at Casa Solar." caption="A picture of the movement space at Casa Solar." %}
+
 On this trip I've learned what I am capable of doing, I've crossed a boundary I can never come back from. I've experienced, learned, and grown so much. Working abroad has unlocked so many possibilities for new experiences by allowing me to save money and travel. My current "office" overlooks the rainforest. The sound of bugs, birds, and monkeys are audible all day. The space I've been staying in has a large movement studio that allows me to stretch and be active at any point of the day. I am fed a vegetarian meal by the hosts once or twice a day and can walk a few meters down the road to a water hole complete with its own waterfall perfect for cooling off during the day. Up in the mountains life is simple. The chaos and negative energy of the city are nonexistent, overindulging is next to nearly impossible, and the way these mountain valleys heal your soul is palpable.
+
+{% include figure image_path="/assets/img/CasaSolar.png" alt="A view of the Jungle from Casa Solar." caption="A view of the Jungle from Casa Solar." %}
 
 My experience started in October of 2017 when I started my remote job. I tell people that I'm a cartographer--I make maps and write programs for collecting comments on policy and planning of National Forests in the United States on a contract. It's a pretty niche job, and the work always varies from product to product and client to client. The work is very fun and rewarding.
 
 I decided shortly after I got the job to buy a plane ticket to Costa Rica for 5 weeks. I used a mixture of flights.google.com and momondo.com to find the best days to travel and the cheapest prices. I ended up getting a round trip ticket from PDX to LIR for around $450. Both sites are good for showing you the cheapest days to fly, and if you can be flexible as to what day you travel it makes it even easier to find a cheap flight.
 
+![Airplane]({{ site.url }}{{ site.baseurl }}/assets/img/Airplane.JPG)
+
 When the day came I packed as light as possible and left for LIR. Upon arrival I was pretty lucky to have an expat my uncle knew in the area pick me up at the airport and drop me off at the place I lived at in Playas del Coco for a few weeks while I got my bearings. While in Coco I learned that most places in CR have free Wi-Fi such as the hostels and the local Sodas. Sodas are small family owned restaurants that serve cheap typical local food such as Gallo Pinto or Casados. You can also get a Kolbi sim card just about anywhere for about $4--usually you'll find a sign out front with the Kolbi symbol--and can load it with as much money as you'd like. I found that $20 which lasted me for an entire month while texting or calling locally and using internet in moderation. The nice thing about Coco is that it's the closest beach to a main airport and it's relatively easy to get to, but there isn't anything that spectacular about the area. It's a pretty typical beach in a pretty typical town where a lot of expats live.
 
-The first week I was in Coco I spent my time getting acquainted with the country's culture, monetary system, and the layout of the town. I got my sim card, pulled out cash from Banco de Costa Rica (BCR), and found my favorite places to work during the day. At the end of my first week I delivered my first serious products to my client and I decided to hop on a bus and take a weekend up in the mountains in Monteverde.
+{% include figure image_path="/assets/img/CocoSunset2.JPG" alt="Coco Beach Sunset." caption="A view of the sunset from Coco Beach." %}
 
-When traveling across Costa Rica you can use thebusschedule.com to find reliable bus times and maps.me--an application that downloads a lightweight local map to your phone--to find important bus stops, hostels, places to eat, trails, and attractions. When taking the bus it's important to catch one that leaves early enough to make the transfers to your location. For instance, there are only two buses up the mountain to Monteverede and they both leave from La Irma, one at 10 am and the other at 3 pm. The bus from Coco took me to Pulmatin de Liberia where I can caught a connecting bus to San Jose and got off at La Irma to go up to Monteverde.
+The first week I was in Coco I spent my time getting acquainted with the country's culture, monetary system, and the layout of the town. I got my sim card, pulled out cash from Banco de Costa Rica (BCR), and found my favorite places to work during the day. I saw my first howler monkey, my first iguana, and quite a few tropical birds. At the end of my first week I delivered my first serious products to my client and I decided to hop on a bus and take a weekend up in the mountains in Monteverde.
 
-Monteverde is a unique mountain village surrounded by rainforest with delicious coffee (grown locally) and food, souvenir shops, and its own unique natural attractions. Monteverde was much cooler in temperature than the beach, being that it was up in the mountains, which was a nice change. I stayed at Hostel la Suerta B&B for about $10 a night and would highly recommend it to a friend. From the hostel it's easy to book different tours of the area, which will pick you up and drop you off right outside the hostel. A few of the us at the hostel booked a tour of the Monteverde cloudforest which was a really great experience. After our tour one of the friends we made, who had been staying at the hostel, took us up the road to a local spot where you can climb up the inside of a hollowed out tree about 10 stories to the top.
+When traveling across Costa Rica you can use thebusschedule.com to find reliable bus times and maps.me--an application that downloads a lightweight local map to your phone--to find important bus stops, hostels, places to eat, trails, and attractions. When taking the bus it's important to catch one that leaves early enough to make the transfers to your location. For instance, there are only two buses up the mountain to Monteverde and they both leave from La Irma, one at 10 am and the other at 3 pm. The bus from Coco took me to Pulmatin de Liberia where I caught a connecting bus to San Jose and got off at La Irma to go up to Monteverde.
 
-Sitting at the top I realized that traveling is like being high up in a tree. When you're on it, cradled within it's arms, it's exhilarating. You could easily fall at any moment to the depths of the jungle floor below. But then you realize that you're in a tree, it has strength and so do you. The tree spoke to me and said,
+{% include figure image_path="/assets/img/MonteverdeHills.JPG" alt="A view of the Ocean from on top of Monteverde." caption="A view of the Ocean from on top of Monteverde." %}
+
+Monteverde is a unique mountain village surrounded by rainforest with delicious coffee (grown locally) and food, souvenir shops, and its own unique natural attractions. Monteverde was much cooler in temperature than the beach, being that it was up in the mountains, which was a nice change. I stayed at Hostel la Suerta B&B for about $10 a night and would highly recommend it to a friend. From the hostel it's easy to book different tours of the area, which will pick you up and drop you off right outside the hostel. A few of the us at the hostel booked a tour of the Monteverde cloudforest which was a really great experience.
+
+![Montezuma Waterfall]({{ site.url }}{{ site.baseurl }}/assets/img/Monteverde12.JPG)
+
+{% include gallery id="monteverde" caption="Pictures from the Monteverde Cloudforest" %}
+
+After our tour of the Cloudforest one of the friends, who had been staying at the hostel, took us up the road to a local spot where you can climb up the inside of a hollowed out tree about 10 stories to the top. Sitting at the top I realized that traveling is like being high up in a tree. When you're on it, cradled within it's arms, it's exhilarating. You could easily fall at any moment to the depths of the jungle floor below. But then you realize that you're in a tree, it has strength and so do you. I wrote this poem after realizing what the tree was teaching me.
+
+![Montezuma Waterfall]({{ site.url }}{{ site.baseurl }}/assets/img/MonteverdeTree.JPG)
 
 "I am a strong tree, be calm and still with me,
 I will keep you safe from your enemies.
@@ -34,9 +81,19 @@ So ground with me for an eternity."
 
 During my stay in Coco I met a Tica who knew Costa Rica very well and had a vehicle. We ended up traveling together to Montezuma, Santa Teresa, and Malpaís for some camping and adventuring. Each place having it's own drastically unique village, beaches, people, and natural attractions. In Montezuma we met a couple from Argentina who ended up traveling with us. The first night in Montezuma was the day of the new moon, laying on the beach under the stars that night was a major highlight of my trip. Cancer, Gemini, Orion, Canis Major, Ursa Major, Ursa Minor, Pleiades, the Milky Way (Vía Láctea en Español), and other constellations lit up the night sky. While looking at the sky and the ocean Ivan and I sang "We all live in the milky, milky, way" to the tune of Yellow Submarine. The following day we hiked from our hostel to the Montezuma Waterfall. The hike leads right up the Montezuma river to a waterfall close to 10 stories high. We jumped off cliffs into the waters below and swam around the waterfall for the greater part of the day. When we were finished we hiked back, got in the car, and drove to Santa Teresa.
 
+![Montezuma Waterfall]({{ site.url }}{{ site.baseurl }}/assets/img/MontezumaWaterfallPost.JPG)
+
 Santa Teresa can be described as a hippie, yogi, surfer's paradise. In Santa Teresa the beach is long, surf's always up, and the sunsets are brilliant. The town has vegan restaurants, coffee shops, yoga, and spa services. Most of the people I talked with said they showed up and had been there for months since. We camped at a spot on the beach and cooked our meals in an outdoor kitchen, with running water, where the stove was a raised fire pit. The only caveat was that the restrooms didn't have toilet paper, nor did we. I went to a vegan breakfast restaurant to eat (and to do my daily duty), but I returned to find out we had been kicked out of the camping spot because my Argentinian friend's accent came off as aggressive when he asked the camp host for some teepee. One of my biggest regrets on this trip was not having the time to surf while in Santa Teresa, but I know that the next time I am in Costa Rica I will be making a plan to spend at least a week there.
 
-Our next stop was Malpaís where we found another camping spot on the coast. The beach here had lots of shells, there were rocky tide pool sections, and the ocean was a bit more salty and the tides were a little bit calmer than Santa Teresa. The camping spot we stayed at had an open kitchen, complete with a blender, where we made Piña Colodas with fresh pineapple and rum. Our stop here was very relaxing. The camp host was very nice, he had a hobby of collecting and polishing rocks. He gave the each of us a piece of black tourmaline that he had collected and polished. We sat around playing steel drums and hand pans before we left to go back up towards Playa del Coco. On our way up we stoped at Playa Negra and Tamarindo to catch an amazing sunset. Tamarindo is a bit more of a touristy spot. There is a downtown with some really nice shopping and restaurants, the store at the beginning of town reminds me of a health food store in the US. The sunsets are incredible, the beach is full of lively people, and at night there's always something to do. There is live music everywhere and on the beach you can catch some amazing fire spinners.
+![Montezuma Waterfall]({{ site.url }}{{ site.baseurl }}/assets/img/SantaTeresaSunset.JPG)
+
+Our next stop was Malpaís where we found another camping spot on the coast. The beach here had lots of shells, there were rocky tide pool sections, and the ocean was a bit more salty and the tides were a little bit calmer than Santa Teresa. The camping spot we stayed at had an open kitchen, complete with a blender, where we made Piña Colodas with fresh pineapple and rum. Our stop here was very relaxing. The camp host was very nice, he had a hobby of collecting and polishing rocks. He gave the each of us a piece of black tourmaline that he had collected and polished. We sat around playing steel drums and hand pans before we left to go back up towards Playa del Coco.
+
+![Montezuma Waterfall]({{ site.url }}{{ site.baseurl }}/assets/img/Malpais3.JPG)
+
+On our way up we stoped at Playa Negra and Tamarindo to catch an amazing sunset. Tamarindo is a bit more of a touristy spot. There is a downtown with some really nice shopping and restaurants, the store at the beginning of town reminds me of a health food store in the US. The sunsets are incredible, the beach is full of lively people, and at night there's always something to do. There is live music everywhere and on the beach you can catch some amazing fire spinners.
+
+![Montezuma Waterfall]({{ site.url }}{{ site.baseurl }}/assets/img/Tamarindo.JPG)
 
 After my journey with my traveling partners I met up with a friend from the US who flew into Liberia. Her and I traveled together for two days to get down to Manuel Antonio, where we stayed one night, and eventually to Uvita for Envision. While in Manuel Antonio we stopped at BCR so she could pull out cash. We waited in line, got to the banker, and there ended up being an issue where there "systems were down". They ended up taking $800 dollars out of her account, didn't provide us with any Colones, and couldn't reverse the transaction. They told us that her bank had to reverse the transaction. Long story short.. if you need cash just pull it out of an ATM--they have a 250,000₡ limit so don't try to go over or it might take your card which is another hassle. Fortunately the charges dropped after a week and my friend was able to get her bank to give her a temporary credit for one of the charges. Manuel Antonio is another fairly touristy location, but it has a decent beach, and a National Park which we didn't visit. We did find a remote beach, Playa Biesanz, where there is a guy who rents out snorkeling gear to the people on the beach. My friend and I had a blast swimming around looking at fish and watching the sun's light bounce around on the ocean floor.
 
