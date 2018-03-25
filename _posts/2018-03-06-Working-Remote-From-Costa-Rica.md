@@ -6,40 +6,40 @@ header:
   overlay_filter: 0.3
 
 monteverde:
-  - url: /assets/img/Monteverde4.jpg
-    image_path: /assets/img/Monteverde4.jpg
+  - url: /assets/img/Monteverde4.JPG
+    image_path: /assets/img/Monteverde4.JPG
     alt: "Walking through the Monteverde Cloudforest."
-  - url: /assets/img/Monteverde13.jpg
-    image_path: /assets/img/Monteverde13.jpg
+  - url: /assets/img/Monteverde13.JPG
+    image_path: /assets/img/Monteverde13.JPG
     alt: "View of the Monteverde Cloudforest."
-  - url: /assets/img/Monteverde5.jpg
-    image_path: /assets/img/Monteverde5.jpg
+  - url: /assets/img/Monteverde5.JPG
+    image_path: /assets/img/Monteverde5.JPG
     alt: "View of the Monteverde Cloudflorest."
-  - url: /assets/img/Monteverde1.jpg
-    image_path: /assets/img/Monteverde1.jpg
+  - url: /assets/img/Monteverde1.JPG
+    image_path: /assets/img/Monteverde1.JPG
     alt: "Native flowers"
-  - url: /assets/img/Monteverde2.jpg
-    image_path: /assets/img/Monteverde2.jpg
+  - url: /assets/img/Monteverde2.JPG
+    image_path: /assets/img/Monteverde2.JPG
     alt: "Native trees"
     title: ""
-  - url: /assets/img/Monteverde8.jpg
-    image_path: /assets/img/Monteverde8.jpg
+  - url: /assets/img/Monteverde8.JPG
+    image_path: /assets/img/Monteverde8.JPG
     alt: "Native trees"
     title: ""
-  - url: /assets/img/Monteverde6.jpg
-    image_path: /assets/img/Monteverde6.jpg
+  - url: /assets/img/Monteverde6.JPG
+    image_path: /assets/img/Monteverde6.JPG
     alt: "Native flowers"
-  - url: /assets/img/Monteverde3.jpg
-    image_path: /assets/img/Monteverde3.jpg
+  - url: /assets/img/Monteverde3.JPG
+    image_path: /assets/img/Monteverde3.JPG
     alt: "Native bird"
-  - url: /assets/img/Monteverde7.jpg
-    image_path: /assets/img/Monteverde7.jpg
+  - url: /assets/img/Monteverde7.JPG
+    image_path: /assets/img/Monteverde7.JPG
     alt: "Native centipede"
 ---
 
 Currently writing this from Casa Solar in the Fuente Verde Ecovillage in Tinamaste, Costa Rica. I am here until the 8th of March, my journey began on the 4th of February. So much gratitude for this trip. I am a digital nomad from Portland, Oregon, and my life's greatest journey begins here. In this blog post you will read how I was able to spend 5 weeks in Costa Rica and still work, you will find some tricks for working and/or traveling in Costa Rica, and read about the life changing experiences I had in Costa Rica and at Envision 2018. I hope this post inspires you and gives you some great ideas for getting out of your comfort zone and traveling to another country.
 
-{% include figure image_path="/assets/img/CasaSolar1.JPG" alt="A picture of the movement space at Casa Solar." caption="A picture of the movement space at Casa Solar." %}
+{% include figure image_path="/assets/img/CasaSolar1.jpg" alt="A picture of the movement space at Casa Solar." caption="A picture of the movement space at Casa Solar." %}
 
 On this trip I've learned what I am capable of doing, I've crossed a boundary I can never come back from. I've experienced, learned, and grown so much. Working abroad has unlocked so many possibilities for new experiences by allowing me to save money and travel. My current "office" overlooks the rainforest. The sound of bugs, birds, and monkeys are audible all day. The space I've been staying in has a large movement studio that allows me to stretch and be active at any point of the day. I am fed a vegetarian meal by the hosts once or twice a day and can walk a few meters down the road to a water hole complete with its own waterfall perfect for cooling off during the day. Up in the mountains life is simple. The chaos and negative energy of the city are nonexistent, overindulging is next to nearly impossible, and the way these mountain valleys heal your soul is palpable.
 
