@@ -139,7 +139,9 @@ After Envision we were invited up to Casa Solar where I started writing this pos
 
 The most remarkable part of my stay at Casa Solar, and maybe my entire stay in Costa Rica, happened on my last night in Fuente Verde. Temazcal is a type of sweat lodge which originated with pre-Hispanic Indigenous peoples in Mesoamerica. In ancient Mesoamerica it was part of a curative ceremony thought to purify the body after exertion such as battle. It was also used for healing the sick, improving health, and for women to give birth. The Temazcal at Casa Solar is a permanent dome shaped lodge that you cannot stand up in and therefore have to crawl into. The ceremony began by lighting a big fire with big boulders that are placed in the center. 40 or more people gathered around this fire to participate in some way. At the beginning of the ceremony everyone was thoroughly smudged, and we all threw a piece of tobacco into the fire to open the ceremony. We were told to say Ōmeteōtl when speaking/asking a question to the guide of our ceremony. Ōmeteōtl is a name used to refer to the pair of Aztec deities Ometecuhtli and Omecihuatl. "Ōme" translates as "two" or "dual" in Nahuatl and teōtl translates as "god". The tobacco represented our intention and our goal going into the Temazcal, this intention was something to keep us strong while inside. We also set a group intention of community love.
 
-![Temezcal]({{ site.url }}{{ site.baseurl }}/assets/img/Temezcal.JPG)
+{% include figure image_path="/assets/img/Temezcal.JPG" alt="Temezcal" caption="A picture of the Temezcal the day after the ceremony." %}
+
+One of very remarkable part of our ceremony was that 6 women from across the world came together to sing traditional Moon Dance songs while we got ready for the ceremony.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/419551724&color=%23474d3c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
