@@ -108,8 +108,6 @@ Fortunately we were able to contact someone on Facebook that was going to Envisi
 
 ![Envision Magic]({{ site.url }}{{ site.baseurl }}/assets/img/EnvisionMagic.JPG)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RgvaeOMBBdE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 Once we got to Envision the orchestrated, beautiful, chaos began. I can't put everything that happened at Envision into perspective. You'll have to go and experience Envision for yourself if you're called, and I would highly recommend it. The music, workshops, and people are all very inspiring and there are so many great opportunities to network and to learn. So many highlights and so many big life lessons. Seeing Xavier Rudd on the main stage with quite a few good friends from the US was a huge highlight of my experience. Singing medicine songs in the Red Tent, the Tea Lounge, on the beach, and experiencing my first sound healing changed my perspective on music. Music is so healing, it can be a very strong medicine. I learned a medicine song that empowers the divine feminine and divine masculine while at The Unity Temple during a Caco Ceremony lead by Aloka (www.alokaheart.com). I will never forget the lyrics.
 
 "I am a strong woman, I am a wise woman, I am a healer and my soul will never die.
