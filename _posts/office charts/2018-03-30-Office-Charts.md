@@ -1,9 +1,5 @@
 Office Charts consist of 10 or so songs from old and new, well known and obscure artists that I find while at work. This weeks theme is new Alternative Electronic from '17 and '18 with a focus on vocals. Subscribe to the playlist for new music weekly, come back to this page for the archived version of the playlist.
 
-▬▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬
-ＳＨＵＴ　ＵＰ　ＡＮＤ　ＥＮＪＯＹ　ＴＨＥ　ＭＵＳＩＣ！
-▬▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬﻿
-
 <iframe src="https://open.spotify.com/embed/user/akrizae/playlist/4JXmqIIGRy6lK1R847qZt6" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 1. TUI - FKJ
