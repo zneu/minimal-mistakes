@@ -1,9 +1,9 @@
 ---
 excerpt: Office Charts consist of 10 or so songs from old and new, well known and obscure artists that I find while at work. This weeks theme is New Alternative Electronic from '17 and '18 with a focus on vocals. Subscribe to the playlist for new music weekly, come back to this page for the archived version of the playlist.
 header:
-  image: https://images.unsplash.com/photo-1487180144351-b8472da7d491?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2fb8b0a55fc0a9a390e5ebf78492f154&auto=format&fit=crop&w=1652&q=80
-  teaser: https://images.unsplash.com/photo-1487180144351-b8472da7d491?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2fb8b0a55fc0a9a390e5ebf78492f154&auto=format&fit=crop&w=1652&q=80
-  overlay_image: https://images.unsplash.com/photo-1487180144351-b8472da7d491?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2fb8b0a55fc0a9a390e5ebf78492f154&auto=format&fit=crop&w=1652&q=80
+  image: /assets/img/unsplash-music.jpeg
+  teaser: /assets/img/unsplash-music.jpeg
+  overlay_image: /assets/img/unsplash-music.jpeg
   overlay_filter: 0.3
 ---
 
