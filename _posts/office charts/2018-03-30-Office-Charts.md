@@ -5,6 +5,7 @@ header:
   teaser: /assets/img/unsplash-music.jpeg
   overlay_image: /assets/img/unsplash-music.jpeg
   overlay_filter: 0.3
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
 Office Charts consist of 10 or so songs from old and new, well known and obscure artists that I find while at work. This weeks theme is New Alternative Electronic from '17 and '18 with a focus on vocals. Subscribe to the playlist for new music weekly, come back to this page for the archived version of the playlist.
