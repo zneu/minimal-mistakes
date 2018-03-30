@@ -70,3 +70,6 @@ https://code.facebook.com/posts/596471193873876/open-population-datasets-and-ope
 
 deleting Facebook
 http://fortune.com/2018/03/24/how-to-delete-your-facebook-account-and-why-its-so-hard-to-do/
+
+# Facebook debugger
+https://developers.facebook.com/tools/debug/sharing/

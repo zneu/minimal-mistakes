@@ -15,11 +15,11 @@ Office Charts consist of an hour of music from old and new, well known and obscu
 1. TUI - FKJ
 2. Mercury - Tora
 3. Particle - Hundred Waters
-4. Smaller Than My Mother - Overcoats
-5. Aftertase (feat. Opia) - Whethan
-6. Cindy at the Window - Lostboycrow
-7. Isabella - Isaac Delusion
-8. Loving life - Rationale
+4. Aftertase (feat. Opia) - Whethan
+5. Cindy at the Window - Lostboycrow
+6. Smaller Than My Mother - Overcoats
+7. Loving life - Rationale
+8. Isabella - Isaac Delusion
 9. Canopee - Polo & Pan
 10. Nobody Like You - Kaskade
 11. Tell Me (feat. Late Night Alumni) - Kaskade
