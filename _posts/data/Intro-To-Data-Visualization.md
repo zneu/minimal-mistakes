@@ -1,9 +1,15 @@
-We’re going to start talking about what makes visualizations work on Wednesday, but before then I want you to start thinking about what makes a good or bad visualization. Find an example of a data visualization you find particularly clear/enlightening/informative. Why do you think it works so well, and is there anything you can pick out that the author did that made it work well? Find an example of a data visualization that makes you angry. This can take a lot of forms -- misleading, ugly, convoluted, impossible to understand. Why does it make you angry? What do you think could be done to fix it? Submit your links here so that we can discuss them on Wednesday.
-Your answer
-Classmates will see your answer
+### What makes a good or bad visualization?
 
-Good: http://www.antievictionmappingproject.net/ellis.html
+In my opinion, a good data visualization tells a story.
+
+Good: [Ellis Act Evictions from 1994 - 2018](http://www.antievictionmappingproject.net/ellis.html)
+The above data visualization depicts the amount of Ellis Act Evictions for over 20 years in San Francisco.
 This works very well because the point is made that ellis act evictions are becoming more and more of a problem in San Francisco. They inform people on what these evictions are, how to boycott supporting renting or buying form a landlord that profits from these evictions, and a way for people to report their own ellis act evictions. This is a great example of a civic project that utilizes data visualization to bring attention to a problem in San Francisco that has an effect on many people.
+
+<!--
+Find an example of a data visualization you find particularly clear/enlightening/informative. Why do you think it works so well, and is there anything you can pick out that the author did that made it work well? Find an example of a data visualization that makes you angry. This can take a lot of forms -- misleading, ugly, convoluted, impossible to understand. Why does it make you angry? What do you think could be done to fix it? Submit your links here so that we can discuss them on Wednesday. -->
+
+
 
 Bad: https://twitter.com/hnrklndbrg/status/886181647003119616
 This is a horrendous data visualization project. It is pretty difficult to read, and even harder to use as a tool for answering any kind of question. I believe that when a question begs for data to be collected and visualized in order to come up with an answer is when we come up with the most powerful data visualization. The opposite of this would be collecting and graphing data and then coming up with a question/hypothesis based on the results, which is what I feel like this data visualization is doing.
