@@ -101,7 +101,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "smileybearproduction"
   foursquare       :
   github           : "zneu"
   gitlab           :
@@ -256,7 +256,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: false # true
       share: true
       related: true
   # _pages
