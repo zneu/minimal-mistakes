@@ -161,7 +161,8 @@ So much Love and so much gratitude for this trip. Tears of joy sweep over me. Th
 
 ![Envision Magic]({{ site.url }}{{ site.baseurl }}/assets/img/Montezuma.JPG)
 
-<span style="color:#eee; font-size:0px">puerto rico
+<span style="color:#eee; font-size:0px">
+puerto rico
 costa rica
 costa
 costa rica map
