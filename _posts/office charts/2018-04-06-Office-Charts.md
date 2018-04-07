@@ -1,5 +1,5 @@
 ---
-excerpt: Office Charts consist of an hour of music from old and new, well known and obscure artists that I find while at work. This weeks theme is New Alternative Electronic from '17 and '18 with a focus on vocals. Subscribe to the playlist for new music weekly, come back to this page for the archived version of the playlist.
+excerpt: Office Charts consist of an hour of music from old and new, well known and obscure artists that I find while at work. This weeks theme is Jungle Beats and Shaman House. Subscribe to the playlist for new music weekly, come back to this page for the archived version of the playlist.
 header:
   image: /assets/img/unsplash-music.jpg
   teaser: /assets/img/unsplash-music.jpg
