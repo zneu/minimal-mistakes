@@ -73,3 +73,6 @@ http://fortune.com/2018/03/24/how-to-delete-your-facebook-account-and-why-its-so
 
 # Facebook debugger
 https://developers.facebook.com/tools/debug/sharing/
+
+# SEO
+https://neilpatel.com/ubersuggest/

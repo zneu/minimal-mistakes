@@ -1,6 +1,6 @@
 ### What makes a good or bad visualization?
 
-In my opinion, a good data visualization tells a story.
+A good data visualization tells a story. 
 
 Good: [Ellis Act Evictions from 1994 - 2018](http://www.antievictionmappingproject.net/ellis.html)
 The above data visualization depicts the amount of Ellis Act Evictions for over 20 years in San Francisco.
