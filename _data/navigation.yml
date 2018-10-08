@@ -1,7 +1,5 @@
 main:
   - title: "About"
-    url: https://www.zacharyneumann.com/about/
+    url: /about/
   - title: "Blog"
-    url: https://www.zacharyneumann.com/blog/
-  - title: "Markdown Cheatsheet"
-    url: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet/
+    url: /blog/

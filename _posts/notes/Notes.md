@@ -1,3 +1,10 @@
+- label: "Email"
+  icon: "fas fa-fw fa-envelope-square"
+  url: mailto:zneu.dev@gmail.com
+
+# Awesome Blogs
+http://blog.julianwalter.com/
+
 # Music
 - Sememusic
 https://www.semesmusic.com/music
