@@ -2,8 +2,8 @@
 main:
   - title: "Markdown Cheatsheet"
     url: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet/
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: https://www.zacharyneumann.com/about
   # - title: "Blog"
   #   url: /blog/index.html
   # - title: "About"
