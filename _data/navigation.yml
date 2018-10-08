@@ -4,6 +4,8 @@ main:
   url: https://www.zacharyneumann.com/about
   - title: "Blog"
   url: https://www.zacharyneumann.com/blog/index.html
+  - title: "Markdown Cheatsheet"
+  url: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet/
   # - title: "About"
   #   url: /about.html
   # - title: "Sample Posts"
@@ -12,5 +14,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "Markdown Cheatsheet"
-  url: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet/
