@@ -121,7 +121,7 @@ The women sing, the men echo, and vice versa. What a powerful song to unite the 
 
 Another highlight of Envision were the magnificent sunsets on the beach. Witnessing celestial events with large groups of people has been a common theme of my life since the Global Eclipse Gathering in Oregon... which is another story for another day. There's nothing quite like cheering on the universe with thousands of other people as the sun, earth, moon, and stars do their magnificent work of just being.
 
-![Envision Magic](https://scontent.fsnc1-1.fna.fbcdn.net/v/t1.0-9/p960x960/29433291_1863398063694051_8508108103437254656_o.jpg?_nc_cat=0&_nc_eui2=v1%3AAeFwHXdWlFcwhze1toynZBGeVbfYWvS7T_uuQzs6-CFKFEHktaBmcaQ5umg7JfEzafq_W6tg-pmkfNHEk__xxRa4rSG0-u1IRIppwulcQi1TdQ&oh=457f8f45f3554c245ab2b3a492917408&oe=5B44BBEE)
+<!-- ![Envision Magic](https://scontent.fsnc1-1.fna.fbcdn.net/v/t1.0-9/p960x960/29433291_1863398063694051_8508108103437254656_o.jpg?_nc_cat=0&_nc_eui2=v1%3AAeFwHXdWlFcwhze1toynZBGeVbfYWvS7T_uuQzs6-CFKFEHktaBmcaQ5umg7JfEzafq_W6tg-pmkfNHEk__xxRa4rSG0-u1IRIppwulcQi1TdQ&oh=457f8f45f3554c245ab2b3a492917408&oe=5B44BBEE)
 
 ![Envision Magic](https://scontent.fsnc1-1.fna.fbcdn.net/v/t1.0-9/p720x720/29388718_1863393687027822_3142449389469958144_o.jpg?_nc_cat=0&_nc_eui2=v1%3AAeGU2MmbKy_m-Q_pnJ-IjKQg_4XHgD-SdwzOdjEHltljWzSRnWqONCg8RKPemDr-ObrGOWpv0j3ZzF0H0QU_rSJ_XTzoAzlNwCwxWv5XJzW-RQ&oh=0c98213828903ea643b0a2dcd74a121d&oe=5B31FD9C)
 
@@ -129,7 +129,7 @@ Another highlight of Envision were the magnificent sunsets on the beach. Witness
 
 ![Envision Magic](https://scontent.fsnc1-1.fna.fbcdn.net/v/t1.0-9/p720x720/29357127_1863375933696264_6153338162522357760_o.jpg?_nc_cat=0&_nc_eui2=v1%3AAeGBxk_iUNxAAqTTJWz_5sXVNS6llFExYYtGiPmVFaljLQ_1-C524cmLpSlRE9-8X3ohgSOAOIAzJw9dP7fpWMuE1ukJhKAGX5yPHm4I8Cyujg&oh=52b4277eeb15fbc22b289c6ac36769f7&oe=5B3D670C)
 
-![Envision Magic](https://scontent.fsnc1-1.fna.fbcdn.net/v/t1.0-9/p720x720/29386171_1863373337029857_7470321847263821824_o.jpg?_nc_cat=0&_nc_eui2=v1%3AAeFkMFXB8at2GfrggPgPrLAR30cEdze9Acpt08JXgOI9wVht1SWrw9IlEcW5n6Pti17XFM7LGxroAGy3hP6F5ug2dDXdo4BZd96ogD9vNhzZsQ&oh=c72ab304a201cb60a4d8e777a549e8d6&oe=5B40288E)
+![Envision Magic](https://scontent.fsnc1-1.fna.fbcdn.net/v/t1.0-9/p720x720/29386171_1863373337029857_7470321847263821824_o.jpg?_nc_cat=0&_nc_eui2=v1%3AAeFkMFXB8at2GfrggPgPrLAR30cEdze9Acpt08JXgOI9wVht1SWrw9IlEcW5n6Pti17XFM7LGxroAGy3hP6F5ug2dDXdo4BZd96ogD9vNhzZsQ&oh=c72ab304a201cb60a4d8e777a549e8d6&oe=5B40288E) -->
 
 {% include figure image_path="https://scontent.fsnc1-1.fna.fbcdn.net/v/t1.0-9/p720x720/29386947_1863394177027773_3996389102386675712_o.jpg?_nc_cat=0&_nc_eui2=v1%3AAeHOJ5fg--UeiOs1SlrnXXdl_75ZM8YFkaagureH7bE_G-cvelWkpfmZ0tSdmgOE5XY5cIE30PL2SprXc7XbRWXFxHsln0XqztBONhr5489oUw&oh=2a15ef4e9fa6f94d86f4e130400b2ba7&oe=5B2803F9" alt="Envision Magic" caption="Photos by Pink Plankton Photography." %}
 
