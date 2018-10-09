@@ -18,6 +18,8 @@ source "https://rubygems.org"
 gem "jekyll", "~> 3.5"
 gem "minimal-mistakes-jekyll"
 gem "jekyll-include-cache"
+gem "jekyll-redirect-from"
+
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
 #   gem "jekyll-sitemap"
