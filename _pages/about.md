@@ -3,7 +3,7 @@ title: About Zachary
 layout: single
 permalink: /about/
 header:
-  overlay_image: https://images.unsplash.com/photo-1502786129293-79981df4e689?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ca8929ea79462f07dc08e1245b63aa75&auto=format&fit=crop&w=1778&q=80
+  overlay_image: https://source.unsplash.com/1600x900/?nature
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---

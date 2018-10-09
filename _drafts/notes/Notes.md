@@ -1,17 +1,11 @@
-- label: "Email"
-  icon: "fas fa-fw fa-envelope-square"
-  url: mailto:zneu.dev@gmail.com
-
 # Awesome Blogs
-http://blog.julianwalter.com/
+- [Julian Water](http://blog.julianwalter.com/)
 
 # Music
-- Sememusic
-https://www.semesmusic.com/music
+- [Sememusic](https://www.semesmusic.com/music)
 
 # Art
-- Brad Rhadwood
-https://www.facebook.com/BradRhadwood/?hc_location=ufi
+- [Brad Rhadwood](https://www.facebook.com/BradRhadwood/?hc_location=ufi)
 
 # Books/PDFS
 - Valve: Handbook for New Employees
