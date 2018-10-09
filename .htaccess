@@ -1,0 +1,2 @@
+# redirect html pages to the root domain
+RewriteRule ^index\.html$ / [NC,R,L]
