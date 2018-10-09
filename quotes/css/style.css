@@ -15,6 +15,7 @@ header {
 
 main {
   font-family: 'Handlee', cursive;
+  font-size: 14pt;
   max-width: 800px;
   background-color: black;
   margin: auto;
