@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "Zachary Neumann"
 title_separator          : "-"
 name                     : "Zachary Neumann"
-description              : "The more you know!"
+description              : "A Digital Nomad Exploring Creative Flow"
 url                      : "https://www.zacharyneumann.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,8 +103,8 @@ analytics:
 # Site Author
 author:
   name             : "Zachary Neumann"
-  avatar           : "https://ih0.redbubble.net/image.40752633.6260/raf,360x360,075,t,fafafa:ca443f4786.jpg"
-  bio              : "The more you know!"
+  avatar           : "/assets/img/cat_avatar.jpg"
+  bio              : "A Digital Nomad Exploring Creative Flow"
   location         : "Portland, Oregon"
   email            : "z@zacharyneumann.com"
   links:

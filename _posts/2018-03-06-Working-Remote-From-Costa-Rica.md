@@ -131,7 +131,7 @@ Another highlight of Envision were the magnificent sunsets on the beach. Witness
 
 ![Envision Magic](https://scontent.fsnc1-1.fna.fbcdn.net/v/t1.0-9/p720x720/29386171_1863373337029857_7470321847263821824_o.jpg?_nc_cat=0&_nc_eui2=v1%3AAeFkMFXB8at2GfrggPgPrLAR30cEdze9Acpt08JXgOI9wVht1SWrw9IlEcW5n6Pti17XFM7LGxroAGy3hP6F5ug2dDXdo4BZd96ogD9vNhzZsQ&oh=c72ab304a201cb60a4d8e777a549e8d6&oe=5B40288E) -->
 
-{% include figure image_path="https://scontent.fsnc1-1.fna.fbcdn.net/v/t1.0-9/p720x720/29386947_1863394177027773_3996389102386675712_o.jpg?_nc_cat=0&_nc_eui2=v1%3AAeHOJ5fg--UeiOs1SlrnXXdl_75ZM8YFkaagureH7bE_G-cvelWkpfmZ0tSdmgOE5XY5cIE30PL2SprXc7XbRWXFxHsln0XqztBONhr5489oUw&oh=2a15ef4e9fa6f94d86f4e130400b2ba7&oe=5B2803F9" alt="Envision Magic" caption="Photos by Pink Plankton Photography." %}
+<!-- {% include figure image_path="https://scontent.fsnc1-1.fna.fbcdn.net/v/t1.0-9/p720x720/29386947_1863394177027773_3996389102386675712_o.jpg?_nc_cat=0&_nc_eui2=v1%3AAeHOJ5fg--UeiOs1SlrnXXdl_75ZM8YFkaagureH7bE_G-cvelWkpfmZ0tSdmgOE5XY5cIE30PL2SprXc7XbRWXFxHsln0XqztBONhr5489oUw&oh=2a15ef4e9fa6f94d86f4e130400b2ba7&oe=5B2803F9" alt="Envision Magic" caption="Photos by Pink Plankton Photography." %} -->
 
 Big shout out to the medics/village witches, sacred fire tenders, and the Red Tent and Unity Temple healers at Envision. Of course a big shoutout to everyone else who helped to put on such a magnificent experience for so many people, but for me especially to the people who held space for healing and learning for the entire weekend. Incredible and inspiring people, I look up to you.
 
@@ -159,7 +159,7 @@ You never know who you might meet, and you never know how cosmic life can be unt
 
 So much Love and so much gratitude for this trip. Tears of joy sweep over me. Thank you for reading this and I hope it can inspire the fire within you to be open to your path and to listen intently to your heart.
 
-![Envision Magic]({{ site.url }}{{ site.baseurl }}/assets/img/Montezuma.JPG)
+![Envision Magic]({{ site.url }}/assets/img/Montezuma.JPG)
 
 <span style="color:#eee; font-size:0px">
 puerto rico
