@@ -1,11 +1,11 @@
 {% include video id="dtmxR1bt-Lc" provider="youtube" %}
 
-## Foggy Mornings, a Cup Coffee, and New Beginnings
+## Foggy Mornings, a Cup of Coffee, and New Beginnings
 Today I am sitting in a coffee shop down the road from my house trying to focus
 on my work. It can be difficult being a contractor and working remote.
 It's like being your own boss but not working on the projects that you want to be
 working on. It's hard to juggle work with a social life and the many projects that
-involve myself in. I would much rather be working on my van build or recording music
+I involve myself in. I would much rather be working on my van build or recording music
 than entering legal documents into a database. The pay is great and many people
 would kill to have my job, yet I am unsatisfied. It's October in Oregon and the
 weather is reflecting the change of season. Cold temperatures and foggy
@@ -79,6 +79,6 @@ of other things. Despite hardship, I am very grateful for the support I've had f
 the communities I've found myself a part of. These interactions have shaped who
 I am and have helped me to discover new things to pursue in my journey. Since I've
 lived in Oregon my whole life, and have experienced what the city has to offer,
-I am feeling a need to travel away from here for an extend length of time. Besides,
+I am feeling a need to travel away from here for an extended length of time. Besides,
 I am over the cold winters (for now) and want some warm sunny beaches in my life. I've decided that building a van and moving into it is how I'm going to rediscover myself and my sense of home. California, here I come! Yosemite, The Bay, SLO, and San Diego await. Post adventures in CA I plan to travel the four corners and continue on to The South. After traveling the states for a while, and using this blog to document my path, I plan to ground down again in a sanctuary that fosters focus, creativity, spiritual and physical wellness,
 and community.
